@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.hover:hover {
+  transform: scale(1.1);
+}
+
+.hover:active {
+  transform: scale(0.9);
+}
+.hover-big:hover {
+  transform: scale(1.1);
+}
